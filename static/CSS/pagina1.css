@@ -12,8 +12,8 @@ html, body {
 
 /* Encabezado */
 .header {
-  background-color: #ECFAE5;
-  color: black;
+  background-color: #332D56;
+  color: white;
   padding: 20px;
   text-align: center;
 }
@@ -71,8 +71,12 @@ html, body {
 .footer {
   text-align: center;
   padding: 15px;
-  background-color: #B0DB9C;
-  color: white;
+  background-color: #E3EEB2;
+  color: black;
   font-size: 14px;
   margin-top: auto; /* Esto empuja el footer al fondo */
+}
+
+.dev{
+  font-size: 11px;
 }
